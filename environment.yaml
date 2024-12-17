@@ -1,0 +1,10 @@
+name: seettling-velocity-calibration
+channels:
+   - conda-forge
+dependencies:
+   - python
+   - pip
+   - scipy
+   - ipython
+   - matplotlib
+   - pandas
